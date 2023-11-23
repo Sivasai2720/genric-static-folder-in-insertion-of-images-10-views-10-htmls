@@ -1,0 +1,29 @@
+h1
+{
+    color: aqua;
+    background-color: lightslategrey;
+}
+h2
+{
+    color: white;
+    background-color: blue;   
+}
+h3
+{
+    color: black;
+    background-color: pink;   
+}
+h4
+{
+    color:green;
+    background-color:lightgoldenrodyellow;   
+}
+h5
+{
+    color: palegreen;
+    background-color: goldenrod;   
+}h6
+{
+    color: white;
+    background-color:purple;   
+}
